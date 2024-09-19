@@ -15,7 +15,7 @@ Welcome to the Amharic Text App! These terms govern your use of the app. By usin
    - **Content Ownership**: Your content remains yours, but you grant us a non-exclusive license to use it for operating the app.
 
 4. **Data Collection and Privacy**  
-   See our [Privacy Policy](https://your-github-page-link.com/privacy-policy) for details on how we handle your data.
+   See our [Privacy Policy](https://codixir.github.io/canva-amharic/privacy-policy) for details on how we handle your data.
 
 5. **Third-Party Integrations**  
    The app may interact with third-party services like Canva. We are not responsible for their actions or policies.
